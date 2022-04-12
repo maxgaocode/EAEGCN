@@ -1,6 +1,6 @@
 # EAEGCN
 
-This is the source code for our paper: [Edge-oriented Attention Mechanism for Graph Convolution Network]
+This is the source code for our paper: [Edge-oriented Attention Mechanism for Graph Convolution Networks]
 
 --------------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ You  can train the model with more parameters for
 
 python python mainepoch.py   --dataset [] --weight_decay []  --hidden []  --epochs  [] --dropedge  [] --eps  []   --layer_num  []  --train_ratio  []   --patience  []
 
-for example train cora with dropout in {0.1,0.2, ..., 1.0}: [0.821, 0.826, 0.825, 0.827, 0.832, 0.83, 0.839, 0.856, 0.803, 0.13]
+
 
 ## Running Environment 
 
